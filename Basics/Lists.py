@@ -77,5 +77,3 @@ squared_nums = [x**2 for x in range(10)]  # this is called as comprehensive
 print(squared_nums)
 
 # cube_nums = [for i in range(10) i**3]  # this won't work
-
-print(cube_nums)
